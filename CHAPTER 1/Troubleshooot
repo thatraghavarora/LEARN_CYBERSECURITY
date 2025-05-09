@@ -1,0 +1,120 @@
+
+
+## 🛠️ **Troubleshooting Internal Computer System Issues**
+
+### 1. 🖥️ **Display Not Working (Black Screen)**
+
+**Symptoms:**
+
+* PC turns on, fans spin, but nothing shows on the monitor.
+* You may hear **beep sounds**.
+
+**Possible Causes & Fixes:**
+
+* 🧽 **RAM not properly seated or dusty**
+  → **Remove RAM**, clean the golden connectors **gently with a soft pencil eraser**, and reinsert it.
+
+* 🔌 **Monitor cable loose or damaged**
+  → Check **HDMI/VGA/DVI** connections and try a different cable or port.
+
+* 💡 **Faulty GPU (Graphics Card)**
+  → Reinsert the GPU or try onboard graphics (if available).
+
+---
+
+### 2. 🔊 **Beep Sounds During Boot**
+
+Beep codes indicate hardware issues during POST (Power-On Self-Test). The pattern tells you what's wrong.
+
+**Common Beep Troubleshooting:**
+
+* **1 long beep, 2 short** – Graphics card issue → Reseat or clean GPU.
+* **Continuous beeping** – RAM issue → Clean and reseat RAM.
+* **No beeps** – May be PSU or motherboard failure.
+
+✅ **Fix:**
+
+* Clean and reseat **RAM**, **GPU**, and **CPU fan**.
+* Try one RAM stick at a time to isolate faulty RAM.
+
+---
+
+### 3. 🌡️ **Overheating (Laptop or Desktop)**
+
+**Symptoms:**
+
+* Computer feels hot, fan runs loudly, or shuts down suddenly.
+
+**Fixes:**
+
+* 🧊 **Apply Thermal Paste (Thermal Tube)**
+  → Remove CPU cooler, clean old paste, and apply **new thermal paste** between CPU and heatsink.
+
+* 🌀 **Clean Dust from Fans & Vents**
+  → Use air blower or soft brush to clean dust from the **CPU fan**, **power supply**, and **vents**.
+
+* ❄️ **Improve airflow**
+  → Add case fans or use a laptop cooling pad.
+
+---
+
+### 4. 💾 **System Doesn’t Boot (No OS Found)**
+
+**Symptoms:**
+
+* Shows “No Bootable Device” or "Insert Boot Media".
+
+**Fixes:**
+
+* ⚙️ Check if **SSD/HDD is detected in BIOS**.
+* 🔌 Reseat **SATA/power cables** connected to the SSD/HDD.
+* 🔄 Reset BIOS to default or check **boot order**.
+* 💿 Reinstall the OS if the drive is corrupted.
+
+---
+
+### 5. ⚡ **No Power / Not Turning On**
+
+**Symptoms:**
+
+* No lights, fans, or screen.
+
+**Fixes:**
+
+* 🔌 Check **power cable**, **wall socket**, and **power switch**.
+* 🔧 Reseat **24-pin motherboard power connector** and **CPU 8-pin cable**.
+* 🔋 Check if **Power Supply Unit (PSU)** is working (try replacing if needed).
+
+---
+
+### 6. 🔃 **Random Restarts or Freezes**
+
+**Causes:**
+
+* Overheating, RAM errors, power issues.
+
+**Fixes:**
+
+* ❄️ Fix overheating (as explained above).
+* 🧽 Clean and check RAM.
+* ⚡ Test PSU or try another one.
+* 🔄 Run **memory test** using tools like *MemTest86*.
+
+---
+
+### 7. 🔌 **USB or Ports Not Working**
+
+**Fixes:**
+
+* Reboot and test with another device.
+* Check port cleanliness.
+* Enter BIOS to make sure ports are enabled.
+
+---
+
+### 🧰 Pro Tips:
+
+* Always **ground yourself** before touching internal components.
+* Label screws and parts when disassembling.
+* Use a **static-free surface** or mat when working.
+

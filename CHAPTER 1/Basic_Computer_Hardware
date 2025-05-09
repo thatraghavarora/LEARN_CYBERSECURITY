@@ -1,0 +1,147 @@
+
+### 💻 **What is a Computer?**
+
+A **computer** is an electronic device that accepts data (input), processes it, stores it, and gives meaningful results (output). It works with both hardware (physical parts) and software (programs).
+
+**Example:**
+A laptop that you use to write documents, browse the internet, or run programs.
+
+---
+
+### 🌐 **What is a Computer Network?**
+
+A **computer network** is a group of two or more computers connected together to share resources (like files, internet, printers).
+
+**Example:**
+The internet, a school's Wi-Fi network, or a LAN in a cyber café.
+
+---
+
+### 🔁 **What is IPO?**
+
+**IPO** stands for **Input – Process – Output**. It's the basic working model of a computer.
+
+* **Input:** Data entered into the computer (e.g., typing, clicking)
+* **Process:** CPU processes the data using software
+* **Output:** Result shown to the user (e.g., text, sound, video)
+
+**Example:**
+You type "2 + 2" → Computer calculates → Displays "4"
+
+---
+
+### 🎮 **Input and Output Devices**
+
+#### ✅ Input Devices (Send data to computer):
+
+* Keyboard
+* Mouse
+* Microphone
+* Scanner
+* Webcam
+* Joystick
+* Touchscreen (when used for input)
+
+#### ✅ Output Devices (Receive data from computer):
+
+* Monitor
+* Printer
+* Speakers
+* Projector
+* Headphones
+
+---
+
+### 🧩 All Common Computer Devices
+
+#### **Input Devices:**
+
+* Keyboard
+* Mouse
+* Scanner
+* Microphone
+* Webcam
+* Light Pen
+* Touchpad
+* Graphics Tablet
+* Barcode Reader
+* Game Controller
+
+#### **Output Devices:**
+
+* Monitor
+* Printer
+* Speakers
+* Headphones
+* Projector
+* Plotter
+
+#### **Processing Device:**
+
+* CPU (Central Processing Unit)
+
+#### **Storage Devices:**
+
+* Hard Disk Drive (HDD)
+* Solid State Drive (SSD)
+* USB Flash Drive
+* CD/DVD
+* Memory Card
+
+### 1. 🧠 **CPU (Central Processing Unit)**
+
+Often called the **"brain of the computer"**, the CPU carries out all instructions from software and controls other components. It performs calculations, logic operations, and data processing. Modern CPUs are very fast and contain multiple cores.
+
+---
+
+### 2. 🔥 **CPU Fan / Heat Sink**
+
+The **CPU fan** or **heat sink** is attached to the processor to keep it cool. As the CPU works, it generates heat. The fan pulls this heat away to prevent overheating, which can damage the system or slow it down.
+
+---
+
+### 3. 🧩 **RAM (Random Access Memory)**
+
+RAM is **temporary memory** that stores data currently being used or processed by the CPU. It’s fast and volatile — which means it loses all data when the computer is turned off. More RAM allows more applications to run smoothly at the same time.
+
+---
+
+### 4. 📀 **ROM (Read-Only Memory)**
+
+ROM is **permanent memory** that contains startup instructions for the computer, like the BIOS (Basic Input Output System). It remains unchanged even when the power is off and is essential for booting up the system.
+
+---
+
+### 5. 💾 **SSD (Solid State Drive)**
+
+An SSD is a **high-speed storage device** that stores your operating system, files, and applications. It’s faster and more reliable than traditional hard drives (HDD), with no moving parts, making it quieter and more durable.
+
+---
+
+### 6. 💿 **DVD Drive (Optical Drive)**
+
+This drive reads CDs or DVDs using a laser. It was once commonly used for installing software or playing media but is now becoming rare in modern systems due to USBs and online downloads.
+
+---
+
+### 7. 🔌 **Wires and Cables (Power & Data)**
+
+Inside the computer, various **power cables** from the power supply unit (PSU) deliver electricity to components like the motherboard, CPU, storage drives, and fans. **Data cables** (like SATA cables) connect storage devices (SSD/DVD) to the motherboard for data transmission.
+
+---
+
+### 8. 🧱 **Motherboard (Mainboard)**
+
+The **motherboard** is the central circuit board that connects and allows communication between all internal components: CPU, RAM, storage, graphics card, etc. It distributes power and enables data flow between them.
+
+---
+
+### 9. ⚡ **Power Supply Unit (PSU)**
+
+The PSU converts electricity from a wall socket (AC) into usable power (DC) for the internal components. It has cables to power the motherboard, CPU, drives, and fans.
+
+---
+
+### 10. 🌀 **Internal Fans / Cooling System**
+
+Besides the CPU fan, computers may have **case fans** or **GPU fans** to maintain proper airflow and cooling. Keeping the internal temperature low ensures better performance and hardware life.
