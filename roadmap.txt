@@ -1,0 +1,18 @@
+Hello Everyone My Name is Raghav Arora, I am 17 year Cyber Boy Of Rajasthan I Have Secured Lots Of Orgranastion Such as NASA , WHO , Nokia , Panasonic , Jio , Ola etc
+
+So Let's Start The Jounery
+
+Chapter 1 : Understand of Basic Computer Hardware 
+Chapter 2 : Computer Connection ? And How They Work 
+Chapter 3 : OS Independent Troubleshooting 
+Chapter 4 : Understand The Computer Networking 
+Chapter 5 : O/S Working 
+Chapter 6 : Kali linux Installation 
+Chapter 7 : Understanding Kali Linux & Its Commads
+Chapter 8 : OSI MODEL , SSL & TLS  CERTIFICATE 
+Chapter 9 : Cyber Security Commans Terms
+Chapter 10 : Web Pentesting 
+Chapter 11 : Api Pentesting 
+Chapter 12 : App Pentesting
+Chapter 13 : Cloud Pentesting 
+Chapter 14 : Networking Pentesting 
